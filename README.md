@@ -2,8 +2,8 @@
 🚀 **Aspiring Data Analyst | Excel | SQL | Power BI | Python**  
 
 🌟 **About Me:**  
-- 🎯 Passionate about turning data into actionable insights  
-- 📊 5+ years of experience in Excel & data handling  
+- 🎯 Passionate about turning data into insights  
+- 📊 4+ years of experience in Excel & data handling  
 - 🔍 Currently learning **SQL, Power BI & Python for Data Analytics**  
 - 🌱 Exploring **Machine Learning & Data Science**  
 
@@ -13,13 +13,11 @@
 - ✅ Power BI (Dashboards, DAX, Data Modeling)  
 - ✅ Python (Pandas, NumPy, Matplotlib, Seaborn)  
 
-📈 **Projects:**  
-1. 📊 [Sales Dashboard in Power BI](https://github.com/your-username/sales-dashboard)  
-2. 📉 [Customer Churn Prediction in Python](https://github.com/your-username/customer-churn)  
-3. 📂 [SQL Data Analysis on E-commerce](https://github.com/your-username/sql-ecommerce-analysis)  
+📈 **GitHub Stats:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratimaChauhan1207&show_icons=true&theme=dark)  
 
 📫 **Let's Connect!**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 pratima.email@example.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pratimachauhan1601)  
+- 📧 pratimachauhan1601@gmail.com
 
 💡 *"Data is the new oil, and I'm here to refine it!"* 🚀  
